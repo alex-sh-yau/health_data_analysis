@@ -13,11 +13,11 @@ The schema of the projectis as follows:
 Data Preprocessing
 Data Trend Analysis
 
--i. Sleep Trends
--ii. Exercise Trends
--iii. Heart Rate Trends
--iv. Stress Trends
--v. Step Counts Trends
+- Sleep Trends
+- Exercise Trends
+- Heart Rate Trends
+- Stress Trends
+- Step Counts Trends
 
 Data Daily Analysis
 
